@@ -1,0 +1,25 @@
+
+        .jumbotron {
+            background-color: 
+            #74422b;
+            color: white;
+            width: 100%;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .card-header {
+            background-color: #337ab7;
+            color: white;
+            font-weight: bold;
+        }
+
+        .btn {
+            background-color: #337ab7;
+            width: 12%;
+
+        }
+
+        .form-group {
+            font-weight: bold;
+        }
