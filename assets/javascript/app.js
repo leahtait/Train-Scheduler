@@ -1,17 +1,5 @@
-       // Your web app's Firebase configuration
-  var firebaseConfig = {
-    apiKey: "AIzaSyAjuxGqPGu3Fx2Fl2Agh_U3yBx5qkijaDQ",
-    authDomain: "train-scheduler-15110.firebaseapp.com",
-    databaseURL: "https://train-scheduler-15110.firebaseio.com",
-    projectId: "train-scheduler-15110",
-    storageBucket: "train-scheduler-15110.appspot.com",
-    messagingSenderId: "765209984586",
-    appId: "1:765209984586:web:3331f036e0987a6a"
-  };
 
-     // Initialize Firebase
-      firebase.initializeApp(firebaseConfig);
-
+  firebase.initializeApp(firebaseConfig);
       // Create a variable to reference the database
       var dataRef = firebase.database();
 
